@@ -61,7 +61,7 @@ export const Create = () => {
 			<div className=' flex flex-col items-center justify-center h-screen text-lg'>
 				<form
 					action=''
-					className='bg-black text-white px-8 py-4 rounded-md w-2/5'
+					className='bg-black text-white px-8 py-4 rounded-md lg:w-2/5'
 					onSubmit={onSubmit}
 				>
 					<div>
